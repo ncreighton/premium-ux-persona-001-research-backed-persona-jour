@@ -1,0 +1,2 @@
+# premium-ux-persona-001-research-backed-persona-jour
+Built for ux-research-operations professionals who are tired of spending hours building a system before you can actually use it.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Research-Backed Persona &amp; Journey Map B
